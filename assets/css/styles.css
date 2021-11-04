@@ -1,0 +1,89 @@
+body, html{
+    height: 100%;
+}
+
+body{
+    font-family: 'DM Mono' !important;
+    font-weight: bold !important;
+    font-size: 22px !important;
+}
+
+#conteudo{
+    width: 80px;
+    height: 100%;
+    background-size: cover;
+    
+}
+
+.btn{
+    background-color: white !important;
+    color:black !important;
+    margin: 7px;
+    
+}
+
+.form-inline{
+    margin: 0rem 10rem  !important;
+}
+
+#hidden{
+    display:none;
+    padding: 0;
+}
+
+.sla{
+    background-color: rgb(89, 86, 92) !important;
+}
+
+.jumbotron{
+    background-color:#001aff !important;
+    margin:0;
+}
+
+.footer{
+    background-color:#001aff!important;
+    margin:0;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.imgfoot{
+    width: 3rem;
+    height: 3rem;
+    margin-left:7rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.images{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+}
+
+.images:hover{
+    background-color: #311B92;
+
+}
+
+.imgs{
+    height: 100px;
+    width: 100px;
+    background-color:#0345fa;
+    padding: 20px;
+    border-radius: 55%;
+    margin: 40px;
+}
+
+
+.inicio{
+    display: flex;
+    font-family: 'DM Mono';
+    font-size: 22px; 
+    margin-top:70px;
+}
+
+#foto{
+    border-radius: 55%;
+}
